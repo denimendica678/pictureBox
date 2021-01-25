@@ -1,0 +1,9 @@
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\bin\Debug\pictureBoxKontrola.exe.config
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\bin\Debug\pictureBoxKontrola.exe
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\bin\Debug\pictureBoxKontrola.pdb
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.Form1.resources
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.Properties.Resources.resources
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.exe
+C:\Users\denim\source\repos\pictureBoxKontrola\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.pdb
